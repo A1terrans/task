@@ -1,0 +1,4 @@
+CREATE TABLE DataCSV (
+    code VARCHAR(30) PRIMARY KEY,
+    name VARCHAR(255)
+);
